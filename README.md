@@ -1,2 +1,3 @@
 # HelloWorld
-Hello World program to learn GitHub
+
+My name is <enter name here>
